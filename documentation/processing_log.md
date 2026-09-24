@@ -1,13 +1,13 @@
 # Data Processing and Provenance Log
 
 ## 1. Source Identification & Retrieval
-* **Provider:** World Health Organization (WHO) Global Health Observatory (GHO).
+* **Data Provider:** World Health Organization (WHO).
+* **Portal / Landing Page:** [WHO Global Health Observatory](https://www.who.int/data/gho?utm_source=copilot.com)[cite: 1].
 * **Retrieval Date:** September 24, 2026.
-* **Format:** Unmodified Excel workbooks (`.xlsx`) downloaded directly from the GHO data portal[cite: 1].
-* **Raw Files:**
-  * `HIV.xlsx` (Indicator: Estimated number of people living with HIV, all ages)
-  * `Malaria.xlsx` (Indicator: Estimated malaria incidence per 1,000 population at risk)
-  * `TUBERCULOSIS.xlsx` (Indicator: Number of incident tuberculosis cases)
+* **Raw Files in `data/raw/`:**
+  * `HIV.xlsx` (Indicator: Estimated number of people living with HIV, all ages)[cite: 1].
+  * `Malaria.xlsx` (Indicator: Estimated malaria incidence per 1,000 population at risk)[cite: 1].
+  * `TUBERCULOSIS.xlsx` (Indicator: Number of incident tuberculosis cases)[cite: 1].
 
 ## 2. Scope & Inclusion Criteria
 * **Geographic Boundary:** Sub-Saharan Africa defined strictly using the World Bank regional classification[cite: 1].
