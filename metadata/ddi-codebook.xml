@@ -39,9 +39,9 @@
     </stdyInfo>
     <method>
       <dataColl>
-        <dataSrc>World Health Organization (WHO) Global Health Observatory</dataSrc>
-        <collMode>Data files were downloaded in Excel format, filtered by indicator and country, and processed using Python.</collMode>
-        <cleanOps>Rows restricted to 47 Sub-Saharan countries. Blank numeric fields converted to NA. New variables (MetricType, Denominator) derived from IndicatorCode.</cleanOps>
+        <dataSrc>World Health Organization (WHO) Global Health Observatory (https://www.who.int/data/gho?utm_source=copilot.com)</dataSrc>
+        <collMode>Data files were downloaded in Excel format directly from the WHO GHO portal, filtered by country and indicator, and standardized via Python.</collMode>
+        <cleanOps>Restricted to 47 sovereign Sub-Saharan African nations. Regional aggregates removed. Empty fact values converted to NA. Added MetricType and Denominator variables.</cleanOps>
       </dataColl>
     </method>
     <dataAccs>
