@@ -46,9 +46,27 @@
 * **Limitations & Comparability:** The dataset merges reported counts with modeled estimates. Users should consult the `FactValueNumericLow` and `FactValueNumericHigh` uncertainty bounds when comparing modeled estimates (like Malaria rates) against direct incidence counts.
 
 ## Licensing & Citation
-* **Licensing:** The curation scripts, metadata, and repository structure are provided under the open MIT License. The source data remains subject to the World Health Organization's terms of use and open access policies. 
-* **Suggested Citation:** Antwi, O. D., & Group 3 Research Team (2026). *Longitudinal Disease Incidence in Sub-Saharan Africa: Curated Indicators for HIV, Malaria, and Tuberculosis*. Version 1.0. University of Cape Coast. Repository: https://github.com/NanaAntwi-osbee/msc-data-curation-disease-incidence--Group-3-
+MIT License
 
+Copyright (c) 2026 Frederick Armoh, Bright Takyi, Frank Annan, Joseph Ennibil, and Jones Kwasi Makafui Agbemaka
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 ---
 
 ## Reproducibility & Metadata Examples
