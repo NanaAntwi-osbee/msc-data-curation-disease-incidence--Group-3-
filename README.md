@@ -4,10 +4,12 @@
 **Purpose:** The primary research and reuse purpose of this curated dataset is to provide a reliable, harmonized foundation for data-driven disease burden monitoring, epidemiological forecasting, and predictive modeling within the region.
 
 ## Group Members
-* **Osbert Darko Antwi:** Lead Curator / Data Processing Pipeline
-* **[Member 2 Name]:** Metadata Authoring / Quality Control
-* **[Member 3 Name]:** Data Validation / Codebook Generation
-
+* **Frederick Armoh (SE/DMD/25/0009):** Data Engineer / Processing Pipeline
+* **Bright Takyi (SE/DMD/25/0010):** Variable Analyst / Codebook Generation
+* **Frank Annan (SE/DMD/25/0011):** DDI Metadata Curator 
+* **Joseph Ennibil (SE/DMD/25/0012):** Discovery Metadata & Legal Documentation
+* **Jones Kwasi Makafui Agbemaka (SE/DMD/25/0013):** Project Manager / Provenance & Release
+   
 ## Data Provenance
 * **Original Data Provider:** World Health Organization (WHO) Global Health Observatory (GHO)
 * **Portal Link:** [https://www.who.int/data/gho](https://www.who.int/data/gho?utm_source=copilot.com)
