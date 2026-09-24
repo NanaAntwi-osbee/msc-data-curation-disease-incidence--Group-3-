@@ -1,4 +1,4 @@
-variable name,variable label,definition,data_type,unit,allowed values,missing value,source indicator code,source indicator name,source,transformation,notes
+variable name,variable label,definition,data_type,unit,allowed values,missing value,source indicator code,WHO Global Health Observatory ([https://www.who.int/data/gho?utm_source=copilot.com](https://www.who.int/data/gho?utm_source=copilot.com)), indicator name,,transformation,notes
 IndicatorCode,Indicator Code,Unique identifier for the health indicator,String,N/A,"HIV_0000000001, MALARIA_EST_INCIDENCE, TB_e_inc_num",N/A,Mixed,Mixed,WHO Global Health Observatory,None,Code assigned by WHO
 Indicator,Indicator Name,Full descriptive name of the health indicator,String,N/A,Free text,N/A,Mixed,Mixed,WHO Global Health Observatory,None,Name assigned by WHO
 SpatialDimValueCode,Country Code,ISO 3166-1 alpha-3 country code,String,N/A,Valid ISO-3 codes for Sub-Saharan Africa,N/A,N/A,N/A,WHO,None,Filtered to Sub-Saharan Africa
